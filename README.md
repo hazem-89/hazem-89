@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning every thing I can, during the summer I will learn more about **React**
+- 🌱 I’m currently learning every thing I can...
 
 - 📫 How to reach me **hazem.k.4488@gmail.com**
 
