@@ -1,6 +1,6 @@
 # About me: 
 <h1 align="center">Hi 👋, I'm Hazem kawas</h1>
-<h3 align="center">A passionate frontend developer from Gothenburg, Sweden.</h3>
+<h3 align="center">A passionate Full-Stack developer from Gothenburg, Sweden.</h3>
 
 - 📫 How to reach me **hazem.k.4488@gmail.com**
 
